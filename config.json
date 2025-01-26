@@ -20,13 +20,13 @@
     ],
     "BOTOWNER": "SHANKAR-SUMAN",
     "OWNERLINK": "https://www.facebook.com/shankar.suman.98622733",
-    "OWNERID": "100058415170590",
+    "OWNERID": "100057041031881",
     "BOTCREATOR": "SHANKAR-SUMAN",
     "APIKEY": "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",
     "openai": "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",
     "CREATORLINK": "https://www.facebook.com/shankar.suman.98622733",
     "PERMISSION1": [
-        "100058415170590",
+        "100057041031881",
         "",
         "",
         ""
@@ -40,9 +40,9 @@
     "PASSWORD": "",
     "autoaccept": "true",
     "BOTNAME": "TAKLU BABU",
-    "PREFIX": "#",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100058415170590",
+        "100057041031881",
         "",
         "",
         "",
@@ -50,7 +50,7 @@
         ""
     ],
     "GOD": [
-        "100058415170590"
+        "100057041031881"
     ],
     "DATABASE": {
         "sqlite": {
